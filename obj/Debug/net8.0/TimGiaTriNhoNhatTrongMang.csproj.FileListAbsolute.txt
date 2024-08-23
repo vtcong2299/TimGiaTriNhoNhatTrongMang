@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimGiaTriNhoNhatTrongMang\bin\Debug\net8.0\TimGiaTriNhoNhatTrongMang.exe
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimGiaTriNhoNhatTrongMang\bin\Debug\net8.0\TimGiaTriNhoNhatTrongMang.deps.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimGiaTriNhoNhatTrongMang\bin\Debug\net8.0\TimGiaTriNhoNhatTrongMang.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimGiaTriNhoNhatTrongMang\bin\Debug\net8.0\TimGiaTriNhoNhatTrongMang.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimGiaTriNhoNhatTrongMang\bin\Debug\net8.0\TimGiaTriNhoNhatTrongMang.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimGiaTriNhoNhatTrongMang\obj\Debug\net8.0\TimGiaTriNhoNhatTrongMang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimGiaTriNhoNhatTrongMang\obj\Debug\net8.0\TimGiaTriNhoNhatTrongMang.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimGiaTriNhoNhatTrongMang\obj\Debug\net8.0\TimGiaTriNhoNhatTrongMang.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimGiaTriNhoNhatTrongMang\obj\Debug\net8.0\TimGiaTriNhoNhatTrongMang.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimGiaTriNhoNhatTrongMang\obj\Debug\net8.0\TimGiaTriNhoNhatTrongMang.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimGiaTriNhoNhatTrongMang\obj\Debug\net8.0\refint\TimGiaTriNhoNhatTrongMang.dll
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimGiaTriNhoNhatTrongMang\obj\Debug\net8.0\TimGiaTriNhoNhatTrongMang.pdb
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimGiaTriNhoNhatTrongMang\obj\Debug\net8.0\TimGiaTriNhoNhatTrongMang.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\LapTrinhGameUnity\CongTapCode\C#\BaiTapCodeGym\TimGiaTriNhoNhatTrongMang\obj\Debug\net8.0\ref\TimGiaTriNhoNhatTrongMang.dll
